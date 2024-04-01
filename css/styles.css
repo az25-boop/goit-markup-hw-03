@@ -535,7 +535,7 @@ ul {
 /* <!--footer--> */
 
 .footer {
-  background-color: #2e2f42;
+  padding: 100px 0;
 }
 
 .footer-webstudio {
@@ -553,10 +553,5 @@ ul {
 }
 
 .text-increase {
-  font-family: var(--font-family);
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 150%;
-  letter-spacing: 0.02em;
-  color: #f4f4fd;
+  max-width: 264px;
 }
