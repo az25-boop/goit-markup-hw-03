@@ -255,6 +255,11 @@ ul {
   overflow: hidden;
 }
 
+.unlist {
+  display: flex;
+  gap: 24px;
+}
+
 .box-strategy {
   display: flex;
   gap: 24px;
