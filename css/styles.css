@@ -31,8 +31,16 @@ img {
   border-bottom: 1px solid #e7e9fc;
 }
 
-.display-flex {
+.container {
   display: flex;
+  width: 1158px;
+  margin: 0;
+  padding: 0 15px;
+}
+
+.navigation {
+  display: flex; 
+  align-items: center;
 }
 
 .web {
@@ -73,9 +81,12 @@ img {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
+  margin-right: 76px;
 }
 
 .menu-nav {
+  display: flex;
+  gap: 40px;
 }
 
 li {
@@ -109,6 +120,7 @@ ul {
   letter-spacing: 0.02em;
   color: #2e2f42;
   color: hover #404bbf;
+  padding: 24px 0;
 }
 
 .portfolio-li {
@@ -138,6 +150,8 @@ ul {
   line-height: 150%;
   letter-spacing: 0.02em;
   color: #434455;
+  display: flex;
+  gap: 40px;
 }
 
 .mailto-to:hover, .mailto-to:focus,
