@@ -64,6 +64,7 @@ a:active {
 }
 
 .menu-nav {
+  list-style-type: none;
 }
 
 .menu-nav-logo {
