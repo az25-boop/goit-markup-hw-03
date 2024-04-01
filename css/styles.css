@@ -64,6 +64,9 @@ a:active {
 }
 
 .menu-nav {
+}
+
+li {
   list-style-type: none;
 }
 
