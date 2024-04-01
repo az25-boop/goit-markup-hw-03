@@ -70,6 +70,11 @@ li {
   list-style-type: none;
 }
 
+ul {
+  margin-left: 0;
+  padding-left: 0;
+}
+
 .menu-nav-logo {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
