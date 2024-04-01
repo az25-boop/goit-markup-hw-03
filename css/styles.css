@@ -145,9 +145,12 @@ ul {
   font-style: normal;
 }
 
-.mailto {
+.mail {
   display: flex;
   gap: 40px;
+}
+
+.mailto {
 }
 
 .mailto-to {
@@ -364,6 +367,7 @@ ul {
   text-transform: capitalize;
   text-align: center;
   color: #2e2f42;
+  margin-bottom: 72px;
 }
 
 /* <!--ROW 1-->
@@ -547,6 +551,8 @@ ul {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
+  display: inline-block; 
+  margin-bottom: 16px; 
 }
 
 .web-footer-st {
