@@ -37,6 +37,10 @@ img {
   padding: 0 15px;
 }
 
+.flex {
+  display: flex;
+}
+
 .navigation {
   display: flex;
   align-items: center;
