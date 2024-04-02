@@ -145,11 +145,11 @@ ul {
 }
 
 .mail {
-  display: flex;
-  gap: 40px;
 }
 
 .mailto {
+  display: flex;
+  gap: 40px;
 }
 
 .mailto-to {
