@@ -38,11 +38,8 @@ img {
 }
 
 .navigation {
-  align-items: center;
-}
-
-.flex {
   display: flex;
+  align-items: center;
 }
 
 .web {
